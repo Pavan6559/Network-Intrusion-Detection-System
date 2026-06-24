@@ -537,23 +537,6 @@ Develop a dashboard using:
 
 for interactive monitoring and prediction.
 
----
-
-# Expected Learning Outcomes
-
-Through this project, you will gain practical experience in:
-
-* Cybersecurity fundamentals
-* Intrusion detection systems
-* Supervised machine learning
-* Classification problems
-* Random Forest algorithms
-* Data preprocessing
-* Feature engineering
-* Handling imbalanced datasets
-* Model evaluation
-* Explainable AI
-* End-to-end ML project development
 
 ---
 
